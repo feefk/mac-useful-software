@@ -18,6 +18,7 @@ useful software for mac
 ### 常用软件
  
 * [SwitchResX](http://www.madrau.com/)
+* [SiteSucker](http://www.sitesucker.us/ios/ios.html)
  
 ### 图片查看 
  
