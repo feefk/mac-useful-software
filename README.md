@@ -6,6 +6,7 @@ useful software for mac
 * [学习相关](#学习相关)
 * [常用软件](#常用软件)
 * [图片查看](#图片查看)
+* [design](#design)
 * [编辑器](#编辑器)
 * [分析工具](#分析工具)
 * [xcode plugin](#xcodeplugin)
@@ -24,7 +25,9 @@ useful software for mac
  
 * LilyView
  
- 
+### Design
+* [Axure](http://www.axure.com/)
+
 ### 编辑器
  
 * [vimR](https://github.com/qvacua/vimr)
