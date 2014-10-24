@@ -4,24 +4,19 @@ useful software for mac
 ## 目录
  
 * [学习相关](#学习相关)
-* [常用软件](#常用软件)
 * [图片查看](#图片查看)
 * [Design](#design)
 * [编辑器](#编辑器)
 * [分析工具](#分析工具)
 * [Configure](#configure)
 * [Log](#log)
+* [常用软件](#常用软件)
 * [xcode plugin](#xcodeplugin)
  
  
 ### 学习相关
  
 * [dictionary生词本](https://github.com/pooriaazimi/BetterDictionary)
- 
-### 常用软件
- 
-* [SwitchResX](http://www.madrau.com/)
-* [SiteSucker](http://www.sitesucker.us/ios/ios.html)
  
 ### 图片查看 
  
@@ -55,6 +50,13 @@ useful software for mac
 -------
 * [sf question](http://stackoverflow.com/questions/7277804/ios-iphone-ipad-ipodtouch-view-real-time-console-log-terminal)
  
+### 常用软件
+ 
+* [SwitchResX](http://www.madrau.com/)
+* [SiteSucker](http://www.sitesucker.us/ios/ios.html)
+* [go2shell](http://zipzapmac.com/go2shell)
+
+
 ### xcodeplugin
  
 * [XToDo](https://github.com/trawor/XToDo)
