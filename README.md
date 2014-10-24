@@ -52,7 +52,8 @@ useful software for mac
 * [iOS Console](http://support.omnigroup.com/ios-console-log) 
 * [libimobiledevice](https://github.com/benvium/libimobiledevice-macosx)
 
-[sf question](http://stackoverflow.com/questions/7277804/ios-iphone-ipad-ipodtouch-view-real-time-console-log-terminal)
+-------
+* [sf question](http://stackoverflow.com/questions/7277804/ios-iphone-ipad-ipodtouch-view-real-time-console-log-terminal)
  
 ### xcodeplugin
  
