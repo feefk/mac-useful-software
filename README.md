@@ -45,6 +45,7 @@ useful software for mac
 ### Configure
 
 * [iPhoneConfigUtility](http://support.apple.com/kb/DL1465)
+* [Apple Configurator](https://itunes.apple.com/us/app/apple-configurator/id434433123?mt=12)
 
 ### log
 
