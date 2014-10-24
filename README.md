@@ -39,6 +39,7 @@ useful software for mac
 * [faux pas](http://fauxpasapp.com/) : 检查ios或者xcode工程潜在的bug警告
 * network link conditioner : 网络
 * [APNS-Pusher](https://github.com/blommegard/APNS-Pusher) : 用来测试苹果push服务的小工具
+* [iOS Console](http://support.omnigroup.com/ios-console-log) 
  
 ### xcodeplugin
  
