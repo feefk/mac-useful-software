@@ -8,6 +8,7 @@ useful software for mac
 * [Design](#design)
 * [编辑器](#编辑器)
 * [分析工具](#分析工具)
+* [Net](#net)
 * [Configure](#configure)
 * [Log](#log)
 * [常用软件](#常用软件)
@@ -24,6 +25,7 @@ useful software for mac
  
 ### Design
 * [Axure](http://www.axure.com/)
+* [sketch](http://bohemiancoding.com/sketch/)
 
 ### 编辑器
  
@@ -37,6 +39,10 @@ useful software for mac
 * [network link conditioner](http://nshipster.com/network-link-conditioner/) : 网络
 * [APNS-Pusher](https://github.com/blommegard/APNS-Pusher) : 用来测试苹果push服务的小工具
 * [dSYM]()
+
+### Net
+
+* [Dnsmasq](http://www.thekelleys.org.uk/dnsmasq/doc.html)
 
 ### Configure
 
@@ -70,3 +76,9 @@ useful software for mac
 * [ColorSense](https://github.com/omz/ColorSense-for-Xcode)
 * [Quick-Localization](https://github.com/nanaimostudio/Xcode-Quick-Localization)
 * [VVDocumenter](https://github.com/onevcat/VVDocumenter-Xcode)
+
+
+
+Reference
+=======
+* [The Perfect Web Development Environment for Your New Mac](http://mallinson.ca/osx-web-development/)
