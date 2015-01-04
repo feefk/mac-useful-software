@@ -42,7 +42,11 @@ useful software for mac
 
 ### Net
 
+* [Bind](http://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/BIND.shtml)
 * [Dnsmasq](http://www.thekelleys.org.uk/dnsmasq/doc.html)
+
+# Reference
+* [Comparison_of_DNS_server_software](http://en.wikipedia.org/wiki/Comparison_of_DNS_server_software)
 
 ### Configure
 
