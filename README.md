@@ -67,6 +67,7 @@ useful software for mac
 * [SiteSucker](http://www.sitesucker.us/ios/ios.html)
 * [go2shell](http://zipzapmac.com/go2shell) : 可以在finder上打开shell
 * [flux](https://justgetflux.com/) : 调节屏幕色温，保护眼睛
+* [XtraFinder](http://www.trankynam.com/xtrafinder/)
 
 
 ### xcodeplugin
